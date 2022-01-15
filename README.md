@@ -1,4 +1,11 @@
-Beware! This project has just started. It is not complete yet and maybe never will be since I use github to tinker around.
+# Implement a dice game
 
-# ProjectTemplate-Base
-Base structure for a general purpose project
+There are the following additional common rules that apply:
+https://github.com/stho32/Collection-Of-Challenges/blob/master/Common-Requirements.md
+
+## Requirements
+
+- [ ] (R001) Find yourself a dice game that you like and implement it.
+
+
+
